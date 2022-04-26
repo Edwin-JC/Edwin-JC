@@ -4,7 +4,7 @@ Hi 👋 My name is Edwin J Cherayath
 Software Developer and Computer Engineer
 ----------------------------------------
 
-I've been learning to code for the past 7 years. after my course started with HTML and now i am in to python development
+I've been learning to code for the past 7 years. after my course I started with HTML and now i am in to python development
 
 * 🌍  I'm based in Kerala , India
 * 🖥️  See my portfolio at [Personal Website](http://tinyurl.com/46v64kvv)
